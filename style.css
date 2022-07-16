@@ -18,7 +18,7 @@ button{
     outline: none;
     border: none;
     border-radius: 5px;
-    box-shadow: 0 0 5px rebeccapurple;
+    box-shadow: 0 0 2px rebeccapurple;
 }
 nav{
     min-height: 100vh;
